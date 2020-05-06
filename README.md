@@ -1,5 +1,5 @@
 # Stimuli Effect of the Human Brain Using EEG SPM Dataset (Book Chapter, Chapter 14)
-### from the book Smart Healthcare Analytics in IoT Enabled Environment
+### From the book: "Smart Healthcare Analytics in IoT Enabled Environment"
 
 _Arkajyoti Mukherjee, Ritik Srivastava, Vansh Bhatia, Utkarsh and Suneeta Mohanty_
 
